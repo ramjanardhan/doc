@@ -1,0 +1,5 @@
+projectKey=BetaVersion
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/BetaVersion
+ceTaskId=AWbkNcsuyybUevBX31Vf
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWbkNcsuyybUevBX31Vf
